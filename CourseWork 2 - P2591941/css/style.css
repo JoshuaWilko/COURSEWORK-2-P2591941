@@ -1,0 +1,46 @@
+img{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%
+}
+video{
+  display: block;
+  margin: auto;
+}
+p{
+  color: black;
+  font-size: 1em;
+  float: none;
+}
+p1{
+  color: black;
+  font-size: 1em;
+padding: 15px;
+margin: 30px;
+font-size: 1.2em;
+text-align:right;
+}
+a{
+  color: black;
+  font-size: 3em;
+
+font-size: 1.2em;
+text-align: center;
+}
+body{
+  height: 100vh;
+  background-color:green;
+}
+h1{
+  color: black;
+  text-align: center;
+}
+h2{
+color: black;
+text-align: center;
+}
+div{
+  width: 50%;
+  float:left
+}
